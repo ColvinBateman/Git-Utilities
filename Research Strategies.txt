@@ -1,0 +1,6 @@
+Research Strategies
+
+Knowing what keyword to look for is crucial. If I know the keyword, I should always use it in the search.
+If I do not know the keyword, I could try to describe what I want to do, and look for similar asks. I can't necessarily trust the answers, but I should be able to find at least he keyword.
+I also should specify the language I'm using when I search.
+The most helpful resource so far has been Unity's own pages that give examples and definitions of code I'm looking for.
